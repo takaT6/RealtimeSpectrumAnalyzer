@@ -24,12 +24,15 @@ or
 ```bash
 conda install [package]
 ```
- 
+
+```bash
+brew install portaudio
+```
 # Usage
 ```bash
 python SpectrumAnalyzer.py
 ```
  
 # Note
-
+Install Portaudio by brew command before installing pyaudio.
 
