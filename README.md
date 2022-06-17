@@ -1,5 +1,5 @@
-# RealtimeSpectrumAnalyzer
-RealtimeSpectrumAnalyzer for M1 mac
+# Realtime Spectrum Analyzer
+Realtime Spectrum Analyzer for M1 mac.
  
 # DEMO
 
